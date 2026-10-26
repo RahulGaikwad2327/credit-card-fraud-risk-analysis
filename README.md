@@ -1,6 +1,7 @@
 💳 Credit Card Fraud Risk Analysis | Power BI Dashboard
 
-![alt text](image.png)
+<img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/cf8bba54-0f24-489c-9874-1b420aaf64bf" />
+
 
 Fraud detection is a critical focus area for the banking and finance sectors. This Power BI project analyzes credit card transactions to uncover fraud patterns, assess risk, and present the results in an interactive dashboard that supports data-driven decisions.
 
