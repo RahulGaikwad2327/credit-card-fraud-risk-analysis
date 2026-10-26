@@ -1,7 +1,5 @@
 💳 Credit Card Fraud Risk Analysis | Power BI Dashboard
 
-<img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/cf8bba54-0f24-489c-9874-1b420aaf64bf" />
-
 An end-to-end Power BI project that analyzes credit card transactions to uncover fraud patterns, identify high-risk transactions, and present key risk metrics in an interactive dashboard for faster, data-driven decisions.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
@@ -24,7 +22,7 @@ Fraudulent transactions cause major financial losses and damage customer trust i
 
 > Add your screenshots to a `screenshots/` folder and update the file names below.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](<img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/cf8bba54-0f24-489c-9874-1b420aaf64bf" />)
 ![Fraud Analysis](screenshots/fraud-analysis.png)
 
 ---
