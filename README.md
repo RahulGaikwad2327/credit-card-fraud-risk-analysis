@@ -22,7 +22,8 @@ Fraudulent transactions cause major financial losses and damage customer trust i
 
 > Add your screenshots to a `screenshots/` folder and update the file names below.
 
-![Dashboard Overview](<img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/cf8bba54-0f24-489c-9874-1b420aaf64bf" />)
+![Dashboard Overview]
+<img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/cf8bba54-0f24-489c-9874-1b420aaf64bf" />
 ![Fraud Analysis](screenshots/fraud-analysis.png)
 
 ---
